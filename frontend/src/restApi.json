@@ -1,0 +1,184 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "At our restaurant, we prioritize the quality of our food above all else. We source the freshest ingredients from local farms and suppliers, ensuring that every dish we serve is not only delicious but also of the highest quality. "
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Experience a burst of unparalleled flavor with every bite, crafted to perfection for a superlative taste sensation."
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Enjoy lightning-fast delivery that brings your favorite dishes hot and fresh to your doorstep, redefining speed and convenience."
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./vegan1.png",
+                "title": "ChickPeas Chaat",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./vegan2.png",
+                "title": "ChickPeas With Rice",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./vegan3.png",
+                "title": "Spinach ChicPeas",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./street food1.png",
+                "title": "BhelPuri",
+                "category": "Breakfast"
+            },
+            {
+                "id": 5,
+                "image": "./kach.png",
+                "title": "Kachori",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./street.png",
+                "title": "Potato Crispers",
+                "category": "Lunch"
+            },
+            {
+                "id": 7,
+                "image": "./pizza1.png",
+                "title": "Pizza",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./pizza2.png",
+                "title": "Pizza",
+                "category": "Dinner"
+            },
+            {
+                "id": 9,
+                "image": "./bev1.png",
+                "title": "MockTail",
+                "category": "Dinner"
+            },
+            {
+                "id": 10,
+                "image": "./mock.png",
+                "title": "MockTail",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+    {
+      "id": 1,
+      "image": "chef.png",
+      "name": "TOM RIDDLE",
+      "designation": "Founder & Head Chef"
+    },
+    {
+      "id": 2,
+      "image": "hey.jpg",
+      "name": "LIN YI",
+      "designation": "Seoul Chef"
+    },
+    {
+      "id": 3,
+      "image": "chi.jpg",
+      "name": "Malfoy Severus",
+      "designation": "Fast Food Chef"
+    }
+   
+  ],
+
+            
+        
+        "testimonials": [
+            {
+                "id": 1,
+                "image":"./review_1.png",
+                "description": "Loved the food here especially Pizza",
+                "rating": 4.3,
+                "userName": "Rudrakshi"
+            },
+            {
+                "id": 2,
+                "image": "./review_2.png",
+                "description":"I did like the Street Food ",
+                "rating": 4.5,
+                "userName": "Ginny"
+            },
+            {
+                "id": 3,
+                "image": "./review_3.png",
+                "description": "I did like the burgers with just great taste",
+                "rating": 5,
+                "userName": "Ron"
+            }
+        ],
+        "whoweare": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
